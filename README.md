@@ -246,26 +246,8 @@ AI Recruitment Platform Project
 
 ---
 
-# ⭐ Project Pitch
 
-TalentPulse AI transforms traditional hiring into an intelligent, automated, and data-driven recruitment ecosystem.
 
-By combining AI resume intelligence, real-time workflows, and recruiter analytics, the platform significantly improves hiring efficiency and candidate experience.
 
----
 
-# 📌 Repository Suggestions
 
-- talentpulse-ai
-- ai-recruitment-platform
-- intelligent-talent-matching
-- smart-hiring-system
-- recruiter-candidate-ai-platform
-
----
-
-# 📄 License
-
-This project is developed for educational, portfolio, and research purposes.
-
----
